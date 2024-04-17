@@ -1,3 +1,6 @@
 
-# Teste-Main-
-No caso testes técnico feito em ruby
+# Teste-Mainô
+
+Criação de mini-blog em ruby.
+
+°Funcionalidade 

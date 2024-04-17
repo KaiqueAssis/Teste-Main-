@@ -69,3 +69,6 @@ end
 gem "devise", "~> 4.9"
 
 gem "letter_opener", "~> 1.10"
+
+gem 'webpacker', '~> 5.0'
+gem 'bootstrap', '~> 5.2.0'
