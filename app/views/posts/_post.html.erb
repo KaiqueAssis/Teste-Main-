@@ -1,4 +1,12 @@
-<div id="<%= dom_id post %>">
+<div id="<%= dom_id post %>" class="card" style="width: 1300px; margin: 0 auto">
+  
+  <div class="card-header">
+    <p>
+      <strong>Usuario</strong>
+      <%= post.user %>
+    </p>
+  </div>
+
   <p>
     <strong>Title:</strong>
     <%= post.title %>
@@ -8,6 +16,5 @@
     <strong>Description:</strong>
     <%= post.description %>
   </p>
-
 
 </div>
